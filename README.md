@@ -1,9 +1,7 @@
 # DownIs-Discord-Py
----
-This is python discord's bot with command for parsing info about service's status from site [Down Detector](downdetector.com).
+This is python discord's bot with command for parsing info about service's status from site [Down Detector](https://downdetector.com).
 
 # How install
----
 Modules need for work: 
 | Name | pypi's command |
 | ------ | ------ |
@@ -13,5 +11,5 @@ Modules need for work:
 
 You can change region domain at [5 line]() in script
 
-#### License ####
+# License
 MIT
