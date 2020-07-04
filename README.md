@@ -10,6 +10,3 @@ Modules need for work:
 | Discord Py | pip3 install discord.py  |
 
 You can change region domain at [5 line](BotCopy.py#L5) and discord bot's token at [79 line](BotCopy.py#L79) in [script]().
-
-# License
-MIT
