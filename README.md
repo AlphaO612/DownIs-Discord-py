@@ -9,7 +9,7 @@ Modules need for work:
 | BeautifulSoup | pip3 install beautifulsoup4  |
 | Discord Py | pip3 install discord.py  |
 
-You can change region domain at [5 line]() and discord bot's token at [79 line]() in [script]().
+You can change region domain at [5 line](BotCopy.py#L5) and discord bot's token at [79 line](BotCopy.py#L79) in [script]().
 
 # License
 MIT
